@@ -19,10 +19,8 @@ import com.sforce.ws.ConnectorConfig;
 
 public class BulkExample {
 	
-	//static final String USERNAME = "leonvaughan@archtrial.salesforce.com";
-    //static final String PASSWORD = "London11";
-	static final String USERNAME = "lvaughan@appirio.com.servcloud";
-    static final String PASSWORD = "London14$kX4YxPy0njCFsgiaTUSiIr0E";
+    static final String USERNAME = "yourusename@salesforce.com";
+    static final String PASSWORD = "yourpassword+security_token";
     static EnterpriseConnection connection;
     static int MAX_TYPES_LIMIT = 100;
 
